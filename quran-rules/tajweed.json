@@ -1,0 +1,32 @@
+{
+    "tajweed":[
+        {
+            "id":1,
+            "name":"Tanween",
+            "ar":"",
+            "description":"",
+            "types":[
+                {
+                    "name":"Ith'haar",
+                    "ar":"إظهار",
+                    "char":[
+                        "ء","ه","ح","خ","ع","غ"
+                    ]
+                },
+                {
+
+                }
+            ]
+        },
+        {
+            "id":2,
+            "name":"Ra",
+            "ar":"",
+            "description":"",
+            "types":[
+                {}
+            ]
+        }
+    ]
+
+}
