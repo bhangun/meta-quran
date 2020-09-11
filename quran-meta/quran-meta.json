@@ -1,0 +1,32 @@
+{
+    "juz":[
+      {"id":1, "start":{"sura":1,"aya":1}, "end":{"sura":2,"aya":141}},
+      {"id":2, "start":{"sura":2,"aya":142}, "end":{"sura":2,"aya":256}},
+      {"id":3, "start":{"sura":2,"aya":257}, "end":{"sura":3,"aya":91}}
+    ],
+    "categories":[
+      {
+        "id":1, 
+        "name":"Makiyyah",
+        "ar":"",
+        "description": ""
+      },
+      {
+        "id":2, 
+        "name":"Madina",
+        "ar":"",
+        "description": ""
+      }
+    ],
+    "groups":[
+      {
+        "category":1,
+        "surah":[114,113,112,111,110,109,108]
+      },
+      {
+        "category":2,
+        "surah":[114,113,112,111,110,109,108]
+      }
+    ]
+    
+}

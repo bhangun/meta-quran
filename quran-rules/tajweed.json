@@ -7,14 +7,40 @@
             "description":"",
             "types":[
                 {
+                    "id":1,
                     "name":"Ith'haar",
                     "ar":"إظهار",
+                    "description":"",
                     "char":[
                         "ء","ه","ح","خ","ع","غ"
                     ]
                 },
                 {
-
+                    "id":2,
+                    "name":"Idgham",
+                    "ar":"إظهار",
+                    "description":"",
+                    "char":[
+                        "ء","ه","ح","خ","ع","غ"
+                    ]
+                },
+                {
+                    "id":3,
+                    "name":"Ikhfaa",
+                    "ar":"إظهار",
+                    "description":"",
+                    "char":[
+                        "ء","ه","ح","خ","ع","غ"
+                    ]
+                },
+                {
+                    "id":1,
+                    "name":"Idgham",
+                    "ar":"إظهار",
+                    "description":"",
+                    "char":[
+                        "ء","ه","ح","خ","ع","غ"
+                    ]
                 }
             ]
         },
@@ -24,7 +50,24 @@
             "ar":"",
             "description":"",
             "types":[
-                {}
+                {
+                    "id":1,
+                    "name":"Tafkheem",
+                    "ar":"ﺗَﻔْﺨِﻴْﻢ",
+                    "description":"",
+                    "char":[
+                        "ء","ه","ح","خ","ع","غ"
+                    ]
+                },
+                {
+                    "id":2,
+                    "name":"Tarqeeq",
+                    "ar":"ﺗَﺮْﻗِﻴْﻖ",
+                    "description":"",
+                    "char":[
+                        "ء","ه","ح","خ","ع","غ"
+                    ]
+                }
             ]
         }
     ]
